@@ -6,8 +6,8 @@
 
 </head>
 <body>
-  <?php 
-    nav(); 
+  <?php
+    nav();
   ?>
 
    <head>
