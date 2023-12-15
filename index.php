@@ -20,14 +20,14 @@
 
   <body>
       <div class="landingNav">
-        <a href="index.php">Home</a>
+        <a href="about.php">Start</a>
         <br>
-        <a href="about.php">About</a>
+        <a href="contact.php">Profile</a>
         <br>
-        <a href="contact.php">Contact</a>
+        <a href="contact.php">Log Out</a>
+        <br>
+        <a href="template.php">Template</a>
       </div>
-      </div>
-  </body>
   </body>
 
   <footer>
